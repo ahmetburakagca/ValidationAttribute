@@ -1,0 +1,25 @@
+﻿@model MVCExample.Models.User
+
+@{
+    ViewBag.Title = "Ana Sayfa";
+}
+
+<h2> Kullanıcı Bilgileri </h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Surname)
+        @Html.TextBoxFor(m => m.Surname)
+    </div>
+    <button type="submit">Gönder</button>
+}
+
+@if (ViewBag.Mesaj != null)
+{
+    <p style="color: red;">@ViewBag.Mesaj</p>
+}

@@ -1,0 +1,14 @@
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\bin\Debug\net8.0\ValidationAttribute.exe
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\bin\Debug\net8.0\ValidationAttribute.deps.json
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\bin\Debug\net8.0\ValidationAttribute.runtimeconfig.json
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\bin\Debug\net8.0\ValidationAttribute.dll
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\bin\Debug\net8.0\ValidationAttribute.pdb
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\obj\Debug\net8.0\ValidationAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\obj\Debug\net8.0\ValidationAttribute.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\obj\Debug\net8.0\ValidationAttribute.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\obj\Debug\net8.0\ValidationAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\obj\Debug\net8.0\ValidationAttribute.dll
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\obj\Debug\net8.0\refint\ValidationAttribute.dll
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\obj\Debug\net8.0\ValidationAttribute.pdb
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\obj\Debug\net8.0\ValidationAttribute.genruntimeconfig.cache
+C:\Users\Ahmet\source\repos\HW_1\ValidationAttribute\ValidationAttribute\obj\Debug\net8.0\ref\ValidationAttribute.dll

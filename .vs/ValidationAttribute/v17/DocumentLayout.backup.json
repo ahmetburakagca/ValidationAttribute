@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{443C6892-AB2C-49DB-A076-05475352DBA7}|MVCExample\\MVCExample.csproj|c:\\users\\ahmet\\source\\repos\\hw_1\\validationattribute\\mvcexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443C6892-AB2C-49DB-A076-05475352DBA7}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443C6892-AB2C-49DB-A076-05475352DBA7}|MVCExample\\MVCExample.csproj|c:\\users\\ahmet\\source\\repos\\hw_1\\validationattribute\\mvcexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{443C6892-AB2C-49DB-A076-05475352DBA7}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443C6892-AB2C-49DB-A076-05475352DBA7}|MVCExample\\MVCExample.csproj|c:\\users\\ahmet\\source\\repos\\hw_1\\validationattribute\\mvcexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443C6892-AB2C-49DB-A076-05475352DBA7}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8351E3-FE8E-4B62-AC3A-0ADEE73F0927}|FormExample\\FormExample.csproj|c:\\users\\ahmet\\source\\repos\\hw_1\\validationattribute\\formexample\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8351E3-FE8E-4B62-AC3A-0ADEE73F0927}|FormExample\\FormExample.csproj|solutionrelative:formexample\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7DAE5-8026-4265-BDC6-132D04F43F8C}|ConsoleExample\\ConsoleExample.csproj|c:\\users\\ahmet\\source\\repos\\hw_1\\validationattribute\\consoleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7DAE5-8026-4265-BDC6-132D04F43F8C}|ConsoleExample\\ConsoleExample.csproj|solutionrelative:consoleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\MVCExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\MVCExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T23:28:20.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\MVCExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\MVCExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:26:53.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\MVCExample\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVCExample\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\MVCExample\\Models\\User.cs",
+              "RelativeToolTip": "MVCExample\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:26:25.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\FormExample\\User.cs",
+              "RelativeDocumentMoniker": "FormExample\\User.cs",
+              "ToolTip": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\FormExample\\User.cs",
+              "RelativeToolTip": "FormExample\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:25:17.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\ConsoleExample\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmet\\source\\repos\\HW_1\\ValidationAttribute\\ConsoleExample\\Program.cs",
+              "RelativeToolTip": "ConsoleExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:17:23.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
