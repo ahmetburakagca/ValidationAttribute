@@ -23,7 +23,7 @@ namespace ValidationAttribute
                 bool isRequired = field.GetCustomAttributes(typeof(RequiredFieldAttribute), true).Any();
                 if (isRequired)
                 {
-                    string fieldValue = field.GetValue(entity).ToString();
+                    string fieldValue = field.GetValue(entity)?.ToString() ?? "";
                     if (string.IsNullOrEmpty(fieldValue))
                     {
                         return false;
